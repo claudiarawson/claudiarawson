@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[my personal website!](https://github.com/claudiarawson/website)**
 
-- 🌱 I’m currently learning **databases and cybersecurity**
+- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Data Visualization, Operating Systems, Dynamic Networks, and User Interface Design**
 
 - 👯 I’m looking to collaborate on **Monte Carlo option pricer**
 
