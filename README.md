@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Claudia</h1>
-<h3 align="center">A dedicated student in the Machine Learning field based in Southern California</h3>
+<p align="center">
+<img src= "https://github.com/claudiarawson/claudiarawson/blob/main/Cover%20Photo.png" />
+</p>
+I am a dedicated 3rd year Bachelor's student in the Machine Learning field based in Southern California. I am a passionate learner who is always willing to learn and work with different people and technologies. I enjoy the exploration of new technologies and leverage them to solve new real-life problems. On top of that, I also love to guide and help anyone who may be newer to any topics than I am. I am currently working on a Kaggle Competition!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiarawson&label=Profile%20views&color=0e75b6&style=flat" alt="claudiarawson" /> </p>
 
