@@ -1,23 +1,23 @@
-<p align="center">
-<img src= "https://github.com/claudiarawson/claudiarawson/blob/main/Cover%20Photo.png" />
-</p>
+<p align="center"> <img src= "https://github.com/claudiarawson/claudiarawson/blob/main/Cover%20Photo.png" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiarawson&label=Profile%20views&color=0e75b6&style=flat" alt="claudiarawson" /> </p>
+<h3 align="left">A little bit about me:</h3>
 I am a dedicated 3rd year Bachelor's student in the Machine Learning field based in Southern California. I am a passionate learner who is always willing to learn and work with different people and technologies. I enjoy the exploration of new technologies and leverage them to solve new real-life problems. On top of that, I also love to guide and help anyone who may be newer to any topics than I am. I am currently working on a Kaggle Competition!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiarawson&label=Profile%20views&color=0e75b6&style=flat" alt="claudiarawson" /> </p>
+<h3 align="left">What am I up to:</h3>
 
-- 🔭 I’m currently working on **[my personal website!](https://github.com/claudiarawson/website)**
+- I’m currently working on **[my personal website!](https://github.com/claudiarawson/website)**
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Data Visualization, Operating Systems, Dynamic Networks, and User Interface Design**
+- I’m currently learning **Machine Learning, Artificial Intelligence, Data Visualization, Operating Systems, Dynamic Networks, and User Interface Design**
 
-- 👯 I’m looking to collaborate on **Monte Carlo option pricer**
+- I’m looking to collaborate on **Monte Carlo option pricer**
 
-- 💬 Ask me about **react and tensorflow**
+- Ask me about **react and tensorflow**
 
-- 📫 How to reach me **claudiarawson2021@gmail.com**
+- How to reach me **claudiarawson2021@gmail.com**
 
-- 📄 Learn about my experiences through **[my resume](https://docs.google.com/document/d/13hSpvyfOhfbt9rtIDkNJ3SsVY7QNDRZq9hNv37FAPBI/edit?usp=drive_link)**
+- Learn about my experiences through **[my resume](https://docs.google.com/document/d/13hSpvyfOhfbt9rtIDkNJ3SsVY7QNDRZq9hNv37FAPBI/edit?usp=drive_link)**
 
-- ⚡ Fun fact **I like to surf🏄**
+- Fun fact **I like to surf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
