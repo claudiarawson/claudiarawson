@@ -27,7 +27,7 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="30" width="40" /></a>
+  <a href="https://aws.amazon.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="30" width="40"/></a>
   <a href="https://babeljs.io/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank" > <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="40"/></a>
