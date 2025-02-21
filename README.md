@@ -55,7 +55,12 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-350D36?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Badge"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js Badge"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel Badge"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C Badge"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiarawson&show_icons=true&locale=en&layout=compact" alt="claudiarawson" /></p>
+
+<p>
+  <a href="https://github.com/claudiarawson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiarawson&show_icons=true&theme=catppuccin_latte" alt="Claudia's GitHub Stats"></a>
+  <a href="https://github.com/claudiarawson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiarawson&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="claudiarawson" /></a>
+</p>
