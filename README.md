@@ -21,8 +21,12 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://github.com/claudiarawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/claudiarawson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudiarawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/claudiarawson" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/claudiarawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="claudiarawson" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/claudiarawson/">
+    <img src="https://your-image-url.png" width="40" height="40">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,17 +54,17 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge"></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV Badge"></a>
-  <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white" alt="Haskell Badge"></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge"></a>
+  <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white" alt="Haskell Badge"></a>
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-350D36?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Badge"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js Badge"></a>
-    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel Badge"></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel Badge"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C Badge"></a>
 </p>
 
 
 <p>
-  <a href="https://github.com/claudiarawson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiarawson&show_icons=true&theme=catppuccin_latte" alt="Claudia's GitHub Stats"></a>
-  <a href="https://github.com/claudiarawson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiarawson&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="claudiarawson" /></a>
+  <a href="https://github.com/claudiarawson"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiarawson&show_icons=true&theme=catppuccin_latte" alt="Claudia's GitHub Stats"></a>
+  <a href="https://github.com/claudiarawson"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiarawson&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="claudiarawson"/></a>
 </p>
