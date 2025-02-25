@@ -23,10 +23,6 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
 <p align="left">
 <a href="https://linkedin.com/in/claudiarawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/claudiarawson" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/claudiarawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="claudiarawson" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/claudiarawson/">
-    <img src="https://your-image-url.png" width="40" height="40">
-</a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
