@@ -31,8 +31,8 @@ I am a dedicated 3rd year Bachelor's student in the Machine Learning field based
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML Badge"></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Badge"></a>
-  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender Badge"></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender Badge"></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase Badge"></a>
   <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge"></a>
