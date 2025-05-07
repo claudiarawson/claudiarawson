@@ -1,7 +1,7 @@
 <p align="center"> <img src= "https://github.com/claudiarawson/claudiarawson/blob/main/Cover%20Photo.png" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiarawson&label=Profile%20views&color=0e75b6&style=flat" alt="claudiarawson" /> </p>
 <h3 align="left">A little bit about me:</h3>
-I am a dedicated 3rd year Bachelor's student studying computer science with a focus on the Machine Learning field based in Southern California. I am a passionate learner who is always willing to learn and work with different people and technologies. I enjoy the exploration of new technologies and leverage them to solve new real-life problems. On top of that, I also love to guide and help anyone who may be newer to any topics than I am. I am currently working on a Kaggle Competition!
+I am a dedicated 3rd year Bachelor's student studying computer science with a focus on the Machine Learning field based in Southern California. I am a passionate learner who is always willing to learn and work with different people and technologies. I enjoy the exploration of new technologies and leverage them to solve new real-life problems. On top of that, I also love to guide and help anyone who may be newer to any area of knowledge compared to myself. I just finished a Kaggle Competition, and I am working on a variety of personal projects!
 
 <h3 align="left">What am I up to:</h3>
 
